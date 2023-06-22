@@ -6,7 +6,7 @@ $packages = @(
     # general soft
     "googlechrome",
     "7zip",
-    # main 
+    # compilers and interpreters
     "python",
     "nodejs",
     "mingw",
